@@ -1,5 +1,6 @@
 package practice;
 import java.util.*;
+// ±âµÕ°ú º¸
 public class Kakao2020_4 {
 	static boolean[][] colVisited;
 	static boolean[][] rowVisited;
